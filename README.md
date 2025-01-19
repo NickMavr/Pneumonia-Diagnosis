@@ -38,16 +38,6 @@ Model Checkpoints: Saving weights of the best-performing epochs.
 Data Augmentation: Rotation, flipping, and scaling to improve robustness.
 Ensemble Learning: Soft voting to combine predictions from multiple models.
 
-Navigate to the project directory:
-cd repository-name
-
-Install dependencies:
-pip install -r requirements.txt
-
-Run the project script:
-python project_code.py
-Review outputs and results.
-
 Future Work
 Experiment with additional ensemble methods like bagging and boosting.
 Explore model optimization for real-time deployment.
